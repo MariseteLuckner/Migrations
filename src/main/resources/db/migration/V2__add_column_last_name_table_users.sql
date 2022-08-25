@@ -1,0 +1,1 @@
+ALTER TABLE users ADD last_name varchar(13) NULL;
